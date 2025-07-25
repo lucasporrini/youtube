@@ -1,45 +1,69 @@
-# 📚 Dépôt de support pour les vidéos YouTube
+# 🎯 TypeScript : Génériques et Types Utilitaires
 
-Bienvenue dans ce dépôt GitHub !  
-Ce projet a été créé **à des fins éducatives**, pour accompagner les vidéos publiées sur ma chaîne YouTube.
+Bienvenue dans cette leçon sur les **génériques** et les **types utilitaires** en TypeScript !  
+Cette branche accompagne la vidéo YouTube dédiée à ces concepts fondamentaux.
 
-## 🎯 Objectif
+## 📖 Contenu de la leçon
 
-L'objectif de ce dépôt est double :
+Cette leçon couvre :
 
-- **Servir de support aux vidéos** : chaque dossier ou fichier correspond à un sujet abordé en vidéo (exemples concrets, snippets, projets).
-- **Offrir une base d'entraînement** : les abonnés peuvent explorer le code, expérimenter par eux-mêmes et s'exercer sur les notions apprises.
+### 🔧 Types Utilitaires (Utility Types)
 
-## 🤝 Pour qui ?
+- **`Pick<T, K>`** : Sélectionner certaines propriétés d'un type
+- **`Omit<T, K>`** : Exclure certaines propriétés d'un type
+- **`Partial<T>`** : Rendre toutes les propriétés optionnelles
 
-Ce dépôt s'adresse à tous ceux qui souhaitent :
+### ⚡ Génériques (Generics)
 
-- Approfondir les concepts vus en vidéo.
-- Pratiquer en manipulant du vrai code.
-- Avoir un point de repère fiable et évolutif dans leur apprentissage.
+- Création de types réutilisables
+- Fonctions génériques
+- Interfaces génériques
+- Contraintes sur les génériques
 
-## 🧭 Structure
+## 📁 Fichiers du projet
 
-Chaque branche représente une leçon qui aurait été publiée sur YouTube préalablement.
+- **`app/exercise.tsx`** : Exercices pratiques à compléter
+- **`app/solution.tsx`** : Solutions complètes des exercices
+- **`app/utility-type.tsx`** : Exemples détaillés des types utilitaires
 
-Chaque répertoire contient :
+## 🎯 Objectifs d'apprentissage
 
-- Un ou plusieurs fichiers de code (`.ts`, `.tsx`, `.js`, etc.)
-- Un fichier `README.md` local expliquant le sujet traité (lorsque pertinent)
+À la fin de cette leçon, vous saurez :
+
+1. ✅ Utiliser les types utilitaires pour transformer des types existants
+2. ✅ Créer des fonctions et interfaces génériques
+3. ✅ Appliquer les bonnes pratiques pour du code TypeScript robuste
+4. ✅ Comprendre quand et pourquoi utiliser ces outils
+
+## 🚀 Pour commencer
+
+1. Clonez ce dépôt et basculez sur cette branche
+2. Installez les dépendances : `pnpm install`
+3. Lancez le projet : `pnpm dev`
+4. Ouvrez `app/exercise.tsx` et commencez les exercices !
+
+## 💡 Conseils pratiques
+
+- **Commencez par `exercise.tsx`** pour vous exercer
+- **Consultez `solution.tsx`** uniquement après avoir essayé
+- **Expérimentez** avec différents types dans `utility-type.tsx`
+- **N'hésitez pas à casser le code** pour mieux comprendre !
 
 ## 🔗 Liens utiles
 
-- 📺 Chaîne YouTube : [Xehöss](https://www.youtube.com/c/Xeh%C3%B6ss)
+- 📺 Vidéo YouTube : [Lien vers la vidéo]
+- 📚 Documentation TypeScript : [utility-types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+- 📚 Documentation TypeScript : [generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+
+## 🤝 Questions ou feedback ?
+
 - 💬 Twitter / X : [@xehoss](https://x.com/xehoss)
-- 📬 Discord (disponible prochainement)
-
-## 💡 Contribuer ?
-
-Tu peux proposer des améliorations, corriger des coquilles ou suggérer des idées de sujets. Toute participation est la bienvenue !
+- 📺 Commentaires sur la vidéo YouTube
+- 📧 Issues sur ce dépôt GitHub
 
 ---
 
-Merci de suivre les vidéos et d'utiliser ce dépôt pour progresser.  
-**Apprendre à coder, c'est surtout pratiquer. Alors explore, modifie, casse, recommence ! 🚀**
+**Happy coding! 🎉**  
+_Maîtriser les génériques et les types utilitaires, c'est débloquer la vraie puissance de TypeScript._
 
 Lucas
