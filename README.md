@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 Dépôt de support pour les vidéos YouTube
 
-## Getting Started
+Bienvenue dans ce dépôt GitHub !  
+Ce projet a été créé **à des fins éducatives**, pour accompagner les vidéos publiées sur ma chaîne YouTube.
 
-First, run the development server:
+## 🎯 Objectif
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+L'objectif de ce dépôt est double :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Servir de support aux vidéos** : chaque dossier ou fichier correspond à un sujet abordé en vidéo (exemples concrets, snippets, projets).
+- **Offrir une base d'entraînement** : les abonnés peuvent explorer le code, expérimenter par eux-mêmes et s'exercer sur les notions apprises.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤝 Pour qui ?
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Ce dépôt s'adresse à tous ceux qui souhaitent :
 
-## Learn More
+- Approfondir les concepts vus en vidéo.
+- Pratiquer en manipulant du vrai code.
+- Avoir un point de repère fiable et évolutif dans leur apprentissage.
 
-To learn more about Next.js, take a look at the following resources:
+## 🧭 Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Chaque branche représente une leçon qui aurait été publiée sur YouTube préalablement.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Chaque répertoire contient :
 
-## Deploy on Vercel
+- Un ou plusieurs fichiers de code (`.ts`, `.tsx`, `.js`, etc.)
+- Un fichier `README.md` local expliquant le sujet traité (lorsque pertinent)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Liens utiles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 📺 Chaîne YouTube : [Xehöss](https://www.youtube.com/c/Xeh%C3%B6ss)
+- 💬 Twitter / X : [@xehoss](https://x.com/xehoss)
+- 📬 Discord (disponible prochainement)
+
+## 💡 Contribuer ?
+
+Tu peux proposer des améliorations, corriger des coquilles ou suggérer des idées de sujets. Toute participation est la bienvenue !
+
+---
+
+Merci de suivre les vidéos et d'utiliser ce dépôt pour progresser.  
+**Apprendre à coder, c'est surtout pratiquer. Alors explore, modifie, casse, recommence ! 🚀**
+
+Lucas
